@@ -7,5 +7,5 @@
 📲Nas próximas releases a ideia é realizar uma rede de contatos para verificar pessoas com os mesmos sintomas no seu bairro.
 
 - **Desenvolvido por:** Vocid Group (Adriana, Henrique, Priscila e Vanessa)
-- Hackaton do Campinas Tech Talents - Kotlin - 27/02/2020
+- Hackaton do Campinas Tech Talents - Kotlin - 27/02/2021
 - Versão 1.0
